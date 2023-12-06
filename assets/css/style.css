@@ -60,6 +60,12 @@ a:hover {
   }
 }
 
+
+
+.text-white{
+    color: white;
+}
+
 /* ================================ Header CSS =============================== */
 .my-nav {
   position: fixed;
@@ -615,6 +621,12 @@ a:hover {
 
 .bg-04 .blog-sub .blog-content-section .blog-admin ol li i {
   padding: 0 5px 0 0;
+}
+
+.imagek{
+  object-fit: cover;
+  overflow: hidden;
+  height: 231px;
 }
 
 .abt-01 {
